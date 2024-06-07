@@ -1,0 +1,2 @@
+# cpu-scheduling-algorithm
+ CPU scheduling is a fundamental concept in operating systems that determines which processes run when there are multiple processes ready to execute. Efficient scheduling ensures optimal CPU utilization and system performance. On this website, you will learn about various CPU scheduling algorithms, their characteristics, and their impact on system performance. You can also interact with visualizations to see these algorithms in action.
